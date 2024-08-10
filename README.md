@@ -1,8 +1,6 @@
-# React + Vite
+Create an app to demonstrate routing concepts in react 
+# Implemented Routes
+1) app/fullstackdevelopment  2) app/datascience,  3) app/cybersecurity
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Router-Task](https://github.com/user-attachments/assets/4d7e71e9-6c60-4701-91f3-5abb78b43c2c)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
