@@ -1,0 +1,47 @@
+body
+{
+  background-color: white;
+}
+.card-img-top
+{
+    height: 250px;
+}
+.card-title
+{
+  text-align: center;
+}
+h5
+{
+font-size: 20px;
+}
+.col-lg-12
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h6{
+  text-align: center;
+  margin-top: 30px;
+  background-color: rgb(248, 245, 245);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.nav-link {
+  color: blue;
+  font-size: large;
+}
+#home
+{
+  color:grey
+}
+.navbar-nav
+{
+  padding-left: 280px;
+}
+label{
+  padding-left: 30px;
+}
+
+
+
+
